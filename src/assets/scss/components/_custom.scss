@@ -1,0 +1,17 @@
+.heading {
+  background-color: color(grayscale, white);
+  box-shadow: 0 0 8px -2px rgba(0, 0, 0, 0.2);
+  .title {
+    margin-bottom: 0;
+    font-size: 2.4rem;
+    @include mq-max(sm) {
+      font-size: 1.5rem;
+    }
+  }
+}
+.max-form {
+  max-width: 600px;
+  &.login {
+    max-width: 470px;
+  }
+}
