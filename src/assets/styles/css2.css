@@ -1,0 +1,128 @@
+:root,
+:host{
+    /* Variable de colores primarios */
+    --primary-base: #7c3ecc;
+    --primary-light: #3e98cc;
+    --primary-dark: #005f9d;
+
+    /* Variable de colores secundarios */
+    --secundary-base: #6fb453;
+    --secundary-light: #9ee060;
+    --secundary-dark: #609c47;
+
+    /* Variable de colores complementarios */
+    --complementary-one: #5ad3e8;
+    --complementary-two: #006098;
+    --complementary-three: #00273d;
+
+    /* Variable de colores de alertas */
+    --alerts-success: #50a352;
+    --alerts-error: #dc3545;
+    --alerts-warning: #ffc100;
+    --alerts-info:  #0074fc;
+
+
+    /* Variable de colores escala de grises*/
+    --grayscale-base:#1b1b1b;
+    --grayscale-gray-7:#4a4a4a;
+    --grayscale-gray-6:#333;
+    --grayscale-gray-5:#666;
+    --grayscale-gray-4:#999;
+    --grayscale-gray-3: #ccc;
+    --grayscale-gray-2:#eee;
+    --grayscale-gray-1: #f2f2f2;
+
+}
+
+/* colores primarios  */
+
+.bg-primary-base{
+    background: var(--primary-base);
+}
+.bg-primary-light {
+    background: var(--primary-light);
+}
+.bg-primary-dark {
+    background: var(--primary-dark);
+}
+
+
+/* colores secundarios */
+
+.bg-secondary-base {
+    background: var(--secundary-base);
+}
+.bg-secondary-light {
+    background: var(--secundary-light);
+}
+.bg-secondary-dark {
+    background: var(--secundary-dark);
+}
+
+
+/* Colores complementarios */
+
+.bg-complementary-one {
+    background: var(--complementary-one);
+}
+.bg-complementary-two {
+    background: var(--complementary-two);
+}
+.bg-complementary-three {
+    background: var(--complementary-three);
+}
+
+
+/* Colores de alertas */
+
+.bg-alerts-success {
+    background: var(--alerts-success);
+}
+.bg-alerts-error {
+    background: var(--alerts-error);
+}
+.bg-alerts-warning {
+    background: var(--alerts-warning);
+}
+.bg-alerts-info {
+    background: var(--alerts-info);
+}
+
+
+/* Escala de grises  */
+.bg-grayscale-base {
+    background: var(--grayscale-base);
+}
+.bg-grayscale-gray-7 {
+    background: var(--grayscale-gray-7);
+}
+.bg-grayscale-gray-6 {
+    background: var(--grayscale-gray-6);
+}
+.bg-grayscale-gray-5 {
+    background: var(--grayscale-gray-5);
+}
+.bg-grayscale-gray-4 {
+    background: var(--grayscale-gray-4);
+}
+.bg-grayscale-gray-3 {
+    background: var(--grayscale-gray-3);
+}
+.bg-grayscale-gray-2 {
+    background:var(--grayscale-gray-2);
+}
+.bg-grayscale-gray-1 {
+    background: var(--grayscale-gray-1);
+}
+
+
+
+
+/* Color de texto */
+.text-grayscale-white {
+    color: #fff;
+}
+
+h2{
+    color: #cc3e96;
+}

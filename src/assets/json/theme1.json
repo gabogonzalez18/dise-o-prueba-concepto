@@ -1,0 +1,11 @@
+[
+    {
+        "name": "--primary-base", "valor": "#00273d"
+    },
+    {
+        "name": "--primary-light", "valor": "#609c47"
+    },
+    {
+        "name": "--primary-dark", "valor": "#005f9d"
+    }
+]
