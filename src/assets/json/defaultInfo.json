@@ -1,0 +1,240 @@
+{
+    "_id": "5ffddff0a6be9f9be0e7b845",
+    "titulo1": "demo1",
+    "titulo2": "demo2",
+    "published_at": "2021-01-12T17:44:20.777Z",
+    "createdAt": "2021-01-12T17:44:16.217Z",
+    "updatedAt": "2021-01-12T22:21:38.465Z",
+    "__v": 0,
+    "Header": [
+        {
+            "_id": "5ffe17ae811b5cd3b9499b6b",
+            "Titulo": "Davivienda",
+            "Subtitulo": "Davivienda Descripcion",
+            "__v": 0,
+            "id": "5ffe17ae811b5cd3b9499b6b"
+        }
+    ],
+    "body": [
+        {
+            "_id": "5ffe20f27821e0dd011b429c",
+            "side": {
+                "_id": "5ffe20f27821e0dd011b429d",
+                "titulo1": "Titulo Davivienda Prueba 1",
+                "titulo2": "Titulo Davivienda Prueba 2",
+                "descripcion1": "Esto es un **campo** de *texto* <u>enriquecido</u>",
+                "descripcion2": "Esto es un **campo** de *texto* <u>enriquecido</u>",
+                "__v": 0,
+                "image1": {
+                    "_id": "5ffe20507821e0dd011b4297",
+                    "name": "davivienda1.jpg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "hash": "davivienda1_38196ba50f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 11.93,
+                    "width": 400,
+                    "height": 400,
+                    "url": "/uploads/davivienda1_38196ba50f.jpg",
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_davivienda1.jpg",
+                            "hash": "thumbnail_davivienda1_38196ba50f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 156,
+                            "height": 156,
+                            "size": 3.62,
+                            "path": null,
+                            "url": "/uploads/thumbnail_davivienda1_38196ba50f.jpg"
+                        }
+                    },
+                    "provider": "local",
+                    "related": [
+                        "5ffe20f27821e0dd011b429d",
+                        "5ffe20f27821e0dd011b42a1"
+                    ],
+                    "createdAt": "2021-01-12T22:18:56.328Z",
+                    "updatedAt": "2021-01-12T22:21:38.429Z",
+                    "__v": 0,
+                    "id": "5ffe20507821e0dd011b4297"
+                },
+                "image2": {
+                    "_id": "5ffe20577821e0dd011b4298",
+                    "name": "davivienda2.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "hash": "davivienda2_3ed844fe65",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 11,
+                    "width": 640,
+                    "height": 476,
+                    "url": "/uploads/davivienda2_3ed844fe65.jpeg",
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_davivienda2.jpeg",
+                            "hash": "thumbnail_davivienda2_3ed844fe65",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 210,
+                            "height": 156,
+                            "size": 2.6,
+                            "path": null,
+                            "url": "/uploads/thumbnail_davivienda2_3ed844fe65.jpeg"
+                        },
+                        "small": {
+                            "name": "small_davivienda2.jpeg",
+                            "hash": "small_davivienda2_3ed844fe65",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 500,
+                            "height": 372,
+                            "size": 8.31,
+                            "path": null,
+                            "url": "/uploads/small_davivienda2_3ed844fe65.jpeg"
+                        }
+                    },
+                    "provider": "local",
+                    "related": [
+                        "5ffe20f27821e0dd011b429d",
+                        "5ffe20f27821e0dd011b42a1"
+                    ],
+                    "createdAt": "2021-01-12T22:19:03.518Z",
+                    "updatedAt": "2021-01-12T22:21:38.429Z",
+                    "__v": 0,
+                    "id": "5ffe20577821e0dd011b4298"
+                },
+                "id": "5ffe20f27821e0dd011b429d"
+            },
+            "content": {
+                "video": [
+                    {
+                        "_id": "5ffe20eb7821e0dd011b4299",
+                        "name": "zoom_amd64.deb",
+                        "alternativeText": "",
+                        "caption": "",
+                        "hash": "zoom_amd64_6039c76de2",
+                        "ext": ".deb",
+                        "mime": "application/vnd.debian.binary-package",
+                        "size": 46381.15,
+                        "url": "/uploads/zoom_amd64_6039c76de2.deb",
+                        "provider": "local",
+                        "width": null,
+                        "height": null,
+                        "related": [
+                            "5ffe20f27821e0dd011b42a1"
+                        ],
+                        "createdAt": "2021-01-12T22:21:31.559Z",
+                        "updatedAt": "2021-01-12T22:21:38.429Z",
+                        "__v": 0,
+                        "id": "5ffe20eb7821e0dd011b4299"
+                    }
+                ],
+                "_id": "5ffe20f27821e0dd011b42a1",
+                "titulo1": "Titulo Content 1",
+                "subtitulo1": "Subtitulo Content 1",
+                "descripcion1": "Esto es un **campo** de *texto* <u>enriquecido</u>",
+                "titulo2": "Titulo content 2",
+                "descripcion2": "Esto es un **campo** de *texto* <u>enriquecido</u>",
+                "__v": 0,
+                "image1": {
+                    "_id": "5ffe20507821e0dd011b4297",
+                    "name": "davivienda1.jpg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "hash": "davivienda1_38196ba50f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 11.93,
+                    "width": 400,
+                    "height": 400,
+                    "url": "/uploads/davivienda1_38196ba50f.jpg",
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_davivienda1.jpg",
+                            "hash": "thumbnail_davivienda1_38196ba50f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 156,
+                            "height": 156,
+                            "size": 3.62,
+                            "path": null,
+                            "url": "/uploads/thumbnail_davivienda1_38196ba50f.jpg"
+                        }
+                    },
+                    "provider": "local",
+                    "related": [
+                        "5ffe20f27821e0dd011b429d",
+                        "5ffe20f27821e0dd011b42a1"
+                    ],
+                    "createdAt": "2021-01-12T22:18:56.328Z",
+                    "updatedAt": "2021-01-12T22:21:38.429Z",
+                    "__v": 0,
+                    "id": "5ffe20507821e0dd011b4297"
+                },
+                "image2": {
+                    "_id": "5ffe20577821e0dd011b4298",
+                    "name": "davivienda2.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "hash": "davivienda2_3ed844fe65",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 11,
+                    "width": 640,
+                    "height": 476,
+                    "url": "/uploads/davivienda2_3ed844fe65.jpeg",
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_davivienda2.jpeg",
+                            "hash": "thumbnail_davivienda2_3ed844fe65",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 210,
+                            "height": 156,
+                            "size": 2.6,
+                            "path": null,
+                            "url": "/uploads/thumbnail_davivienda2_3ed844fe65.jpeg"
+                        },
+                        "small": {
+                            "name": "small_davivienda2.jpeg",
+                            "hash": "small_davivienda2_3ed844fe65",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 500,
+                            "height": 372,
+                            "size": 8.31,
+                            "path": null,
+                            "url": "/uploads/small_davivienda2_3ed844fe65.jpeg"
+                        }
+                    },
+                    "provider": "local",
+                    "related": [
+                        "5ffe20f27821e0dd011b429d",
+                        "5ffe20f27821e0dd011b42a1"
+                    ],
+                    "createdAt": "2021-01-12T22:19:03.518Z",
+                    "updatedAt": "2021-01-12T22:21:38.429Z",
+                    "__v": 0,
+                    "id": "5ffe20577821e0dd011b4298"
+                },
+                "id": "5ffe20f27821e0dd011b42a1"
+            },
+            "__v": 2,
+            "id": "5ffe20f27821e0dd011b429c"
+        }
+    ],
+    "styles": [
+        {
+            "_id": "5ffe1f2a7821e0dd011b4293",
+            "aliado": "Davivienda",
+            "estilo": "davivienda.css",
+            "__v": 0,
+            "id": "5ffe1f2a7821e0dd011b4293"
+        }
+    ],
+    "footer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": "5ffddff0a6be9f9be0e7b845"
+}
