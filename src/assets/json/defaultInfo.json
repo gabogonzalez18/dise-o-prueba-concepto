@@ -1,223 +1,223 @@
 {
-        "_id": "5ffe1fa71c8a1e47d6d140ac",
-        "published_at": "2021-01-12T22:37:43.662Z",
-        "header": [
-            {
-                "_id": "5ffe1fa71c8a1e47d6d140ad",
-                "titulo1": "Seguros Bolivar",
-                "subtitulo": "Accidentes Personales",
-                "__v": 0,
-                "id": "5ffe1fa71c8a1e47d6d140ad"
-            }
-        ],
-        "body": [
-            {
-                "_id": "5ffe24a71c8a1e47d6d140b4",
-                "side": [
-                    {
-                        "image1": [
-                            {
-                                "_id": "5ffe20581c8a1e47d6d140af",
-                                "name": "directorio1.png",
-                                "alternativeText": "",
-                                "caption": "",
-                                "hash": "directorio1_60cf47d126",
-                                "ext": ".png",
-                                "mime": "image/png",
-                                "size": 26.68,
-                                "width": 512,
-                                "height": 512,
-                                "url": "/uploads/directorio1_60cf47d126.png",
-                                "formats": {
-                                    "thumbnail": {
-                                        "name": "thumbnail_directorio1.png",
-                                        "hash": "thumbnail_directorio1_60cf47d126",
-                                        "ext": ".png",
-                                        "mime": "image/png",
-                                        "width": 156,
-                                        "height": 156,
-                                        "size": 18.93,
-                                        "path": null,
-                                        "url": "/uploads/thumbnail_directorio1_60cf47d126.png"
-                                    },
-                                    "small": {
-                                        "name": "small_directorio1.png",
-                                        "hash": "small_directorio1_60cf47d126",
-                                        "ext": ".png",
-                                        "mime": "image/png",
-                                        "width": 500,
-                                        "height": 500,
-                                        "size": 83.15,
-                                        "path": null,
-                                        "url": "/uploads/small_directorio1_60cf47d126.png"
-                                    }
+    "_id": "5ffe1fa71c8a1e47d6d140ac",
+    "published_at": "2021-01-12T22:37:43.662Z",
+    "header": [
+        {
+            "_id": "5ffe1fa71c8a1e47d6d140ad",
+            "titulo1": "Seguros Bolivar",
+            "subtitulo": "Accidentes Personales",
+            "__v": 0,
+            "id": "5ffe1fa71c8a1e47d6d140ad"
+        }
+    ],
+    "body": [
+        {
+            "_id": "5ffe24a71c8a1e47d6d140b4",
+            "side": [
+                {
+                    "image1": [
+                        {
+                            "_id": "5ffe20581c8a1e47d6d140af",
+                            "name": "directorio1.png",
+                            "alternativeText": "",
+                            "caption": "",
+                            "hash": "directorio1_60cf47d126",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 26.68,
+                            "width": 512,
+                            "height": 512,
+                            "url": "/uploads/directorio1_60cf47d126.png",
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_directorio1.png",
+                                    "hash": "thumbnail_directorio1_60cf47d126",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "width": 156,
+                                    "height": 156,
+                                    "size": 18.93,
+                                    "path": null,
+                                    "url": "/uploads/thumbnail_directorio1_60cf47d126.png"
                                 },
-                                "provider": "local",
-                                "related": [],
-                                "createdAt": "2021-01-12T22:19:04.481Z",
-                                "updatedAt": "2021-01-13T15:05:07.396Z",
-                                "__v": 0,
-                                "id": "5ffe20581c8a1e47d6d140af"
-                            }
-                        ],
-                        "image2": [
-                            {
-                                "_id": "5ffe21bf1c8a1e47d6d140b0",
-                                "name": "pago.jpeg",
-                                "alternativeText": "",
-                                "caption": "",
-                                "hash": "pago_33dec0872f",
-                                "ext": ".jpeg",
-                                "mime": "image/jpeg",
-                                "size": 4.22,
-                                "width": 286,
-                                "height": 176,
-                                "url": "/uploads/pago_33dec0872f.jpeg",
-                                "formats": {
-                                    "thumbnail": {
-                                        "name": "thumbnail_pago.jpeg",
-                                        "hash": "thumbnail_pago_33dec0872f",
-                                        "ext": ".jpeg",
-                                        "mime": "image/jpeg",
-                                        "width": 245,
-                                        "height": 151,
-                                        "size": 3.86,
-                                        "path": null,
-                                        "url": "/uploads/thumbnail_pago_33dec0872f.jpeg"
-                                    }
+                                "small": {
+                                    "name": "small_directorio1.png",
+                                    "hash": "small_directorio1_60cf47d126",
+                                    "ext": ".png",
+                                    "mime": "image/png",
+                                    "width": 500,
+                                    "height": 500,
+                                    "size": 83.15,
+                                    "path": null,
+                                    "url": "/uploads/small_directorio1_60cf47d126.png"
+                                }
+                            },
+                            "provider": "local",
+                            "related": [],
+                            "createdAt": "2021-01-12T22:19:04.481Z",
+                            "updatedAt": "2021-01-13T15:05:07.396Z",
+                            "__v": 0,
+                            "id": "5ffe20581c8a1e47d6d140af"
+                        }
+                    ],
+                    "image2": [
+                        {
+                            "_id": "5ffe21bf1c8a1e47d6d140b0",
+                            "name": "pago.jpeg",
+                            "alternativeText": "",
+                            "caption": "",
+                            "hash": "pago_33dec0872f",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "size": 4.22,
+                            "width": 286,
+                            "height": 176,
+                            "url": "/uploads/pago_33dec0872f.jpeg",
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_pago.jpeg",
+                                    "hash": "thumbnail_pago_33dec0872f",
+                                    "ext": ".jpeg",
+                                    "mime": "image/jpeg",
+                                    "width": 245,
+                                    "height": 151,
+                                    "size": 3.86,
+                                    "path": null,
+                                    "url": "/uploads/thumbnail_pago_33dec0872f.jpeg"
+                                }
+                            },
+                            "provider": "local",
+                            "related": [],
+                            "createdAt": "2021-01-12T22:25:03.037Z",
+                            "updatedAt": "2021-01-13T15:05:07.396Z",
+                            "__v": 0,
+                            "id": "5ffe21bf1c8a1e47d6d140b0"
+                        }
+                    ],
+                    "_id": "5ffe24a71c8a1e47d6d140b5",
+                    "titulo1": "Directorios Medicos editado",
+                    "titulo2": "Pagos",
+                    "descripcion1": " Acceda a la[* red especializada de Médicos y Profesionales](https://www.segurosbolivar.com/directorios-medicos/salud)  para clientes con Seguro Bienestar y Salud para Disfrutar, Médica Familiar Bolívar, Swiss Life y **Seguros Internacionale**bold text*s.",
+                    "descripcion2": "[*Pague sus productos*](https://www.segurosbolivar.com/RecaudosElectronicos/faces/muestrapagos.jspx/pages/layout/consultUser.action)  y consulte el historial de sus transacciones con facilidad",
+                    "__v": 0,
+                    "id": "5ffe24a71c8a1e47d6d140b5"
+                }
+            ],
+            "content": [
+                {
+                    "image1": [
+                        {
+                            "_id": "5ffe232b1c8a1e47d6d140b1",
+                            "name": "seguro.jpeg",
+                            "alternativeText": "",
+                            "caption": "",
+                            "hash": "seguro_50c1708271",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "size": 9.29,
+                            "width": 402,
+                            "height": 125,
+                            "url": "/uploads/seguro_50c1708271.jpeg",
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_seguro.jpeg",
+                                    "hash": "thumbnail_seguro_50c1708271",
+                                    "ext": ".jpeg",
+                                    "mime": "image/jpeg",
+                                    "width": 245,
+                                    "height": 76,
+                                    "size": 4.48,
+                                    "path": null,
+                                    "url": "/uploads/thumbnail_seguro_50c1708271.jpeg"
+                                }
+                            },
+                            "provider": "local",
+                            "related": [],
+                            "createdAt": "2021-01-12T22:31:07.283Z",
+                            "updatedAt": "2021-01-13T15:05:07.396Z",
+                            "__v": 0,
+                            "id": "5ffe232b1c8a1e47d6d140b1"
+                        }
+                    ],
+                    "image2": [
+                        {
+                            "_id": "5ffe23d81c8a1e47d6d140b2",
+                            "name": "feliz.jpg",
+                            "alternativeText": "",
+                            "caption": "",
+                            "hash": "feliz_deca07dc3c",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 39.64,
+                            "width": 600,
+                            "height": 400,
+                            "url": "/uploads/feliz_deca07dc3c.jpg",
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_feliz.jpg",
+                                    "hash": "thumbnail_feliz_deca07dc3c",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 8.67,
+                                    "path": null,
+                                    "url": "/uploads/thumbnail_feliz_deca07dc3c.jpg"
                                 },
-                                "provider": "local",
-                                "related": [],
-                                "createdAt": "2021-01-12T22:25:03.037Z",
-                                "updatedAt": "2021-01-13T15:05:07.396Z",
-                                "__v": 0,
-                                "id": "5ffe21bf1c8a1e47d6d140b0"
-                            }
-                        ],
-                        "_id": "5ffe24a71c8a1e47d6d140b5",
-                        "titulo1": "Directorios Medicos editado",
-                        "titulo2": "Pagos",
-                        "descripcion1": " Acceda a la[** red especializada de Médicos y Profesionales**](https://www.segurosbolivar.com/directorios-medicos/salud)  para clientes con Seguro Bienestar y Salud para Disfrutar, Médica Familiar Bolívar, Swiss Life y **Seguros Internacionale****bold text**s.",
-                        "descripcion2": "[**Pague sus productos**](https://www.segurosbolivar.com/RecaudosElectronicos/faces/muestrapagos.jspx/pages/layout/consultUser.action)  y consulte el historial de sus transacciones con facilidad",
-                        "__v": 0,
-                        "id": "5ffe24a71c8a1e47d6d140b5"
-                    }
-                ],
-                "content": [
-                    {
-                        "image1": [
-                            {
-                                "_id": "5ffe232b1c8a1e47d6d140b1",
-                                "name": "seguro.jpeg",
-                                "alternativeText": "",
-                                "caption": "",
-                                "hash": "seguro_50c1708271",
-                                "ext": ".jpeg",
-                                "mime": "image/jpeg",
-                                "size": 9.29,
-                                "width": 402,
-                                "height": 125,
-                                "url": "/uploads/seguro_50c1708271.jpeg",
-                                "formats": {
-                                    "thumbnail": {
-                                        "name": "thumbnail_seguro.jpeg",
-                                        "hash": "thumbnail_seguro_50c1708271",
-                                        "ext": ".jpeg",
-                                        "mime": "image/jpeg",
-                                        "width": 245,
-                                        "height": 76,
-                                        "size": 4.48,
-                                        "path": null,
-                                        "url": "/uploads/thumbnail_seguro_50c1708271.jpeg"
-                                    }
-                                },
-                                "provider": "local",
-                                "related": [],
-                                "createdAt": "2021-01-12T22:31:07.283Z",
-                                "updatedAt": "2021-01-13T15:05:07.396Z",
-                                "__v": 0,
-                                "id": "5ffe232b1c8a1e47d6d140b1"
-                            }
-                        ],
-                        "image2": [
-                            {
-                                "_id": "5ffe23d81c8a1e47d6d140b2",
-                                "name": "feliz.jpg",
-                                "alternativeText": "",
-                                "caption": "",
-                                "hash": "feliz_deca07dc3c",
-                                "ext": ".jpg",
-                                "mime": "image/jpeg",
-                                "size": 39.64,
-                                "width": 600,
-                                "height": 400,
-                                "url": "/uploads/feliz_deca07dc3c.jpg",
-                                "formats": {
-                                    "thumbnail": {
-                                        "name": "thumbnail_feliz.jpg",
-                                        "hash": "thumbnail_feliz_deca07dc3c",
-                                        "ext": ".jpg",
-                                        "mime": "image/jpeg",
-                                        "width": 234,
-                                        "height": 156,
-                                        "size": 8.67,
-                                        "path": null,
-                                        "url": "/uploads/thumbnail_feliz_deca07dc3c.jpg"
-                                    },
-                                    "small": {
-                                        "name": "small_feliz.jpg",
-                                        "hash": "small_feliz_deca07dc3c",
-                                        "ext": ".jpg",
-                                        "mime": "image/jpeg",
-                                        "width": 500,
-                                        "height": 333,
-                                        "size": 28.51,
-                                        "path": null,
-                                        "url": "/uploads/small_feliz_deca07dc3c.jpg"
-                                    }
-                                },
-                                "provider": "local",
-                                "related": [],
-                                "createdAt": "2021-01-12T22:34:00.896Z",
-                                "updatedAt": "2021-01-13T15:05:07.396Z",
-                                "__v": 0,
-                                "id": "5ffe23d81c8a1e47d6d140b2"
-                            }
-                        ],
-                        "_id": "5ffe24a71c8a1e47d6d140b9",
-                        "descripcion1": "**¿Tiene una emergencia? ** Estamos para acompañarlo en el **#322***italic text*   Encuentre en Seguros Bolívar el seguro que necesita",
-                        "descripcion2": "# seguro\n\nCon este Seguro, protegemos y aseguramos el pago de sus créditos, en caso de que usted falte y no pueda seguir pagando sus obligaciones.\n",
-                        "subtitulo1": "seguro de vida",
-                        "titulo1": "Encuentre seguros para emergencias",
-                        "titulo2": "Seguro de Vida Protección de Crédito",
-                        "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7FwlatXOK8Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-                        "__v": 0,
-                        "id": "5ffe24a71c8a1e47d6d140b9"
-                    }
-                ],
-                "__v": 2,
-                "id": "5ffe24a71c8a1e47d6d140b4"
-            }
-        ],
-        "styles": [
-            {
-                "_id": "5ffe24a81c8a1e47d6d140be",
-                "aliado": "davivienda",
-                "estilo": "css1.css",
-                "__v": 0,
-                "id": "5ffe24a81c8a1e47d6d140be"
-            },
-            {
-                "_id": "5ffe24a81c8a1e47d6d140bf",
-                "aliado": "doctoraki",
-                "estilo": "css2.css",
-                "__v": 0,
-                "id": "5ffe24a81c8a1e47d6d140bf"
-            }
-        ],
-        "createdAt": "2021-01-12T22:16:07.668Z",
-        "updatedAt": "2021-01-13T15:58:47.254Z",
-        "__v": 1,
-        "footer": "ACERCA DE NOSOTROS Quiénes somos Gobierno Corporativo Documentos del Sistema de Gobierno Corporativo Sobre el Buen Gobierno Junta Directiva",
-        "id": "5ffe1fa71c8a1e47d6d140ac"
-    }
+                                "small": {
+                                    "name": "small_feliz.jpg",
+                                    "hash": "small_feliz_deca07dc3c",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 28.51,
+                                    "path": null,
+                                    "url": "/uploads/small_feliz_deca07dc3c.jpg"
+                                }
+                            },
+                            "provider": "local",
+                            "related": [],
+                            "createdAt": "2021-01-12T22:34:00.896Z",
+                            "updatedAt": "2021-01-13T15:05:07.396Z",
+                            "__v": 0,
+                            "id": "5ffe23d81c8a1e47d6d140b2"
+                        }
+                    ],
+                    "_id": "5ffe24a71c8a1e47d6d140b9",
+                    "descripcion1": "*¿Tiene una emergencia? * Estamos para acompañarlo en el *#322*italic text   Encuentre en Seguros Bolívar el seguro que necesita",
+                    "descripcion2": "# seguro\n\nCon este Seguro, protegemos y aseguramos el pago de sus créditos, en caso de que usted falte y no pueda seguir pagando sus obligaciones.\n",
+                    "subtitulo1": "seguro de vida",
+                    "titulo1": "Encuentre seguros para emergencias",
+                    "titulo2": "Seguro de Vida Protección de Crédito",
+                    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7FwlatXOK8Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "__v": 0,
+                    "id": "5ffe24a71c8a1e47d6d140b9"
+                }
+            ],
+            "__v": 2,
+            "id": "5ffe24a71c8a1e47d6d140b4"
+        }
+    ],
+    "styles": [
+        {
+            "_id": "5ffe24a81c8a1e47d6d140be",
+            "aliado": "davivienda",
+            "estilo": "css1.css",
+            "__v": 0,
+            "id": "5ffe24a81c8a1e47d6d140be"
+        },
+        {
+            "_id": "5ffe24a81c8a1e47d6d140bf",
+            "aliado": "doctoraki",
+            "estilo": "css2.css",
+            "__v": 0,
+            "id": "5ffe24a81c8a1e47d6d140bf"
+        }
+    ],
+    "createdAt": "2021-01-12T22:16:07.668Z",
+    "updatedAt": "2021-01-13T15:58:47.254Z",
+    "__v": 1,
+    "footer": "ACERCA DE NOSOTROS Quiénes somos Gobierno Corporativo Documentos del Sistema de Gobierno Corporativo Sobre el Buen Gobierno Junta Directiva",
+    "id": "5ffe1fa71c8a1e47d6d140ac"
+}
