@@ -1,14 +1,14 @@
 :root,
 :host{
     /* Variable de colores primarios */
-    --primary-base: #7c3ecc;
-    --primary-light: #3e98cc;
+    --primary-base: #ed1c27;
+    --primary-light: #ed1c27;
     --primary-dark: #005f9d;
 
     /* Variable de colores secundarios */
     --secundary-base: #6fb453;
     --secundary-light: #9ee060;
-    --secundary-dark: #609c47;
+    --secundary-dark: #678859;
 
     /* Variable de colores complementarios */
     --complementary-one: #5ad3e8;

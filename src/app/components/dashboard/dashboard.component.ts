@@ -1,4 +1,6 @@
-import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef, Inject } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { DomSanitizer } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-dashboard',
@@ -8,8 +10,8 @@ import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 export class DashboardComponent implements OnInit {
 
   data: any;
-
-  constructor(private cdRef: ChangeDetectorRef) { 
+  @Inject(DOCUMENT) document: any
+  constructor(private cdRef: ChangeDetectorRef, public sanitizer: DomSanitizer) { 
     this.data = localStorage.getItem('default-info');
     console.log('constructor: ', this.data);
     
