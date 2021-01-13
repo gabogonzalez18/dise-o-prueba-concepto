@@ -11,8 +11,10 @@ export class StrapiService {
   constructor(private http: HttpClient) { }
 
   getInfo(): Observable<any> {
-
     return this.http.get(environment.url);
+  }
 
+  getDefault(): Observable<any> {
+    return this.http.get('/assets/json/defaultInfo.json');
   }
 }

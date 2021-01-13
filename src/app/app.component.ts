@@ -15,12 +15,18 @@ export class AppComponent implements OnInit{
 
   ngOnInit(): void {
     this.getInfoStrapi();
+    this.getDefaultInfo();
   }
 
   getInfoStrapi() {
     this.strapi.getInfo().subscribe((res: any) => {
-      console.log(res);
       localStorage.setItem('info-strapi', JSON.stringify(res[0]));
     })
+  }
+
+  getDefaultInfo() {
+    this.strapi.getDefault().subscribe((res: any) => {
+      localStorage.setItem('default-info', JSON.stringify(res));
+    });
   }
 }
