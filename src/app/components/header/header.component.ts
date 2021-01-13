@@ -17,13 +17,13 @@ export class HeaderComponent implements OnInit {
   }
 
   getDataCMS() {
-    this.informationCms = localStorage.getItem('info-strapi');
-    if (this.informationCms) {
-      this.informationCms = JSON.parse(this.informationCms);
-      this.headerInfo = this.informationCms.Header[0];
-    } else {
+    // this.informationCms = localStorage.getItem('info-strapi');
+    // if (this.informationCms) {
+    //   this.informationCms = JSON.parse(this.informationCms);
+    //   this.headerInfo = this.informationCms.Header[0];
+    // } else {
       
-    }
+    // }
     
   }
 
